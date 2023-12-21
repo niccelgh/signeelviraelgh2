@@ -35,7 +35,7 @@ body:before {
   border-left: 45px solid #faf3e6;
   border-right: 45px solid #faf3e6;
   border-top: 45px solid transparent;
-  background: #073763 url('pocketcamera.png') repeat;
+  background: #073763 url('../img/pocketcamera.png') repeat;
   margin: 0 auto -45px;
 }
 
@@ -59,7 +59,7 @@ body:after {
   content: "";
   height: 20px;
   background: 
-    url('img-lg-horiz-border.png') repeat-x 0 -2px;
+    url('../img/img-lg-horiz-border.png') repeat-x 0 -2px;
   background-size: 40em;
   display: block;
 }
@@ -133,7 +133,7 @@ p {
   font-size: 1.12rem;
   letter-spacing: 0.1rem;
   font-weight: 700;
-  background: url('img-sprite.png') no-repeat center 0.25em;
+  background: url('../img/img-sprite.png') no-repeat center 0.25em;
   background-size: 25rem;
   margin-bottom: 1.3em;
 }
@@ -147,7 +147,7 @@ p {
   margin-bottom: 0em;
   letter-spacing: 0.05rem;
   line-height: 1.275em;
-  background: url('pocketcamera.png') no-repeat center .75em;
+  background: url('../img/pocketcamera.png') no-repeat center .75em;
   background-size: 15em;
 }
 
@@ -166,8 +166,8 @@ p {
   font-size: 1.5em;
   line-height: 1;
   background: 
-    url('img-lg-horiz-border.png') repeat-x top right,
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x top right,
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 13em;
 }
 
@@ -198,8 +198,8 @@ p {
   padding: 0.5em 0;
   margin: 0.35em auto 0.75em;
   background: 
-    url('img-lg-horiz-border.png') repeat-x top right,
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x top right,
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 15em;
   line-height: 1;
 }
@@ -264,8 +264,8 @@ h3.archives, h3.resources {
 .design-archives ul {
   list-style-type: none;
   background: 
-    url('img-lg-horiz-border.png') repeat-x top right,
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x top right,
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 36em;
   padding: 1.25em 0;
 }
@@ -308,25 +308,25 @@ h3.archives, h3.resources {
 
 .design-archives .next a {
   right: 0;
-  background: url('img-sprite.png') no-repeat bottom right;
+  background: url('../img/img-sprite.png') no-repeat bottom right;
   background-size: 20em;
 }
 
 .design-archives .previous a {
   left: 0;
-  background: url('img-sprite.png') no-repeat bottom left;
+  background: url('../img/img-sprite.png') no-repeat bottom left;
   background-size: 20em;
 }
 
 .sidebar .wrapper {
   background: 
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 40em;
   margin: 0 2px -1px;
 }
 
 .zen-resources {
-  background:  url('hairdresser.png') no-repeat 100% 100%;
+  background:  url('../img/hairdresser.png') no-repeat 100% 100%;
   background-size: 20em;
   overflow: hidden;
 }
@@ -412,7 +412,7 @@ h3.archives, h3.resources {
 
 .participation {
   padding: 1.5em 0 0.5em;
-  background: url('img-lg-horiz-border.png') repeat-x top left;
+  background: url('../img/img-lg-horiz-border.png') repeat-x top left;
   background-size: 40em;
   margin: 3em 2px 0;
 }
@@ -422,7 +422,7 @@ h3.archives, h3.resources {
   font-size: 2.5em;
   letter-spacing: 0.025em;
   padding-bottom: 1rem;
-  background: url('img-sprite.png') no-repeat center center;
+  background: url('../img/img-sprite.png') no-repeat center center;
   background-size: 9em;
 }
 
@@ -444,14 +444,14 @@ h3.archives, h3.resources {
 .benefits {
   padding: 1em 0 20em;
   margin: 0 2px;
-  background: url('img-lg-horiz-border.png') repeat-x bottom center;
+  background: url('../img/img-lg-horiz-border.png') repeat-x bottom center;
   background-size: 45em;
   position: relative;
 }
 
 .benefits p:last-child {
   background: 
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 44em;
   padding-bottom: 1em;
 }
@@ -461,8 +461,8 @@ h3.archives, h3.resources {
   font-family: "grecian-light-face",sans-serif;
   font-size: 2.65em;
   background: 
-    url('img-lg-horiz-border.png') repeat-x top center,
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x top center,
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 12em;
   padding: 0.25em 0;
 }
@@ -504,7 +504,7 @@ h3.archives, h3.resources {
   height: 26em; 
   margin: 0 auto -26em;
   padding-bottom: 2em;
-  background:  url('schoolbooks.png') no-repeat center 7.75rem;
+  background:  url('../img/schoolbooks.png') no-repeat center 7.75rem;
   background-size: 8.5rem;
 }
 
@@ -520,7 +520,7 @@ h3.archives, h3.resources {
   padding-bottom: 1rem;
   width: 100%;
   background: 
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 16em;
 }
 
@@ -555,14 +555,14 @@ footer:after {
   width: 100%;
   height: 15em; 
   margin: 0 auto -13.5em;
-  background:  url('camera.png') no-repeat center center;
+  background:  url('../img/camera.png') no-repeat center center;
   background-size: 10em;
 }
 
 
 footer {
   background: 
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 40em;
   margin: 5.5em 1px -1px;
   text-align: center;
@@ -630,8 +630,8 @@ footer a:hover, footer a:focus {
   .page-wrapper {
     width: 99%;
     background: 
-      url('img-lg-vert-border.png') repeat-y top left,
-      url('img-lg-vert-border.png') repeat-y right 100px;
+      url('../img/img-lg-vert-border.png') repeat-y top left,
+      url('../img/img-lg-vert-border.png') repeat-y right 100px;
     background-size: 0.75em;
     margin: 0.5em auto;
     padding: 0 2px;
@@ -656,7 +656,7 @@ footer a:hover, footer a:focus {
     font-size: 0.25em;
     letter-spacing: 0.175rem;
     font-weight: 700;
-    background: url('img-sprite.png') no-repeat center 0.2em;
+    background: url('../img/img-sprite.png') no-repeat center 0.2em;
     background-size: 38rem;
     margin-bottom: 1.2em;
   }
@@ -667,7 +667,7 @@ footer a:hover, footer a:focus {
     margin-top: 0.85em;
     margin-bottom: 0em;
     line-height: 1.275em;
-    background: url('scissors.png') no-repeat center top;
+    background: url('../img/scissors.png') no-repeat center top;
     background-size: 70em;
   }
   
@@ -713,12 +713,12 @@ footer a:hover, footer a:focus {
   }
   
   .design-archives .next a {
-    background: url('img-sprite.png') no-repeat bottom right;
+    background: url('../img/img-sprite.png') no-repeat bottom right;
     background-size: 35em;
   }
 
   .design-archives .previous a {
-    background: url('img-sprite.png') no-repeat bottom left;
+    background: url('../img/img-sprite.png') no-repeat bottom left;
     background-size: 35em;
   }
   
@@ -729,12 +729,12 @@ footer a:hover, footer a:focus {
   }
   
   .zen-resources {
-    background:  url('hairdresser.png') no-repeat 28% 95%;
+    background:  url('../img/hairdresser.png') no-repeat 28% 95%;
   }
   
   .zen-resources:after {
     margin-top: 20em;
-    background: #ffb14d url('img-halftone.png') repeat;
+    background: #ffb14d url('../img/img-halftone.png') repeat;
      -webkit-transform: rotate(45deg) translateY(11em) translateX(8.5em);
        -moz-transform: rotate(45deg) translateY(11em) translateX(8.5em);
         -ms-transform: rotate(45deg) translateY(11em) translateX(8.5em);
@@ -754,7 +754,7 @@ footer a:hover, footer a:focus {
   }
   
   .zen-resources {
-    background:  url('hairdresser.png') no-repeat 43.8% bottom;
+    background:  url('../img/hairdresser.png') no-repeat 43.8% bottom;
     background-size: 13em;
   }
   
@@ -830,7 +830,7 @@ footer a:hover, footer a:focus {
     height: 25em; 
     margin: 0 auto -26em;
     padding-bottom: 2em;
-    background:  url('camera.png') no-repeat center center;
+    background:  url('../img/camera.png') no-repeat center center;
     background-size: 32%;
   }
   
@@ -852,7 +852,7 @@ footer a:hover, footer a:focus {
   }
   
   footer:after {
-    background:  url('schoolbooks.png') no-repeat center bottom;
+    background:  url('../img/schoolbooks.png') no-repeat center bottom;
     background-size: 15em;
   }
   
@@ -922,7 +922,7 @@ footer a:hover, footer a:focus {
     font-size: 2rem;
     letter-spacing: 0.175rem;
     font-weight: 700;
-    background: url('img-sprite.png') no-repeat center 0.25em;
+    background: url('../img/img-sprite.png') no-repeat center 0.25em;
     background-size: 42rem;
     margin-bottom: 1em;
   }
@@ -1004,7 +1004,7 @@ footer a:hover, footer a:focus {
     height: 26em; 
     margin: 0 auto -30.5em;
     padding-bottom: 6em;
-    background:  url('pocketcamera.png') no-repeat center 40%;
+    background:  url('../img/pocketcamera.png') no-repeat center 40%;
     background-size: 28%;
   }
   
@@ -1103,7 +1103,7 @@ footer a:hover, footer a:focus {
     height: 26em; 
     margin: 0 auto -26em;
     padding-bottom: 2em;
-    background:  url('longhair.png') no-repeat center center;
+    background:  url('../img/longhair.png') no-repeat center center;
     background-size: 42%;
   }
 
@@ -1158,7 +1158,7 @@ footer a:hover, footer a:focus {
   }
   
   .intro h1:before {
-    background: url('img-sprite.png') no-repeat center 0.3em;
+    background: url('../img/img-sprite.png') no-repeat center 0.3em;
     background-size: 56rem;
     font-size: 2.75rem;
   }
@@ -1207,7 +1207,7 @@ footer a:hover, footer a:focus {
   }
   
   .intro h1:before {
-    background: url('img-sprite.png') no-repeat center 0.5em;
+    background: url('../img/img-sprite.png') no-repeat center 0.5em;
     background-size: 58rem;
     margin-bottom: 0;
   }
