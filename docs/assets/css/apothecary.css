@@ -35,7 +35,7 @@ body:before {
   border-left: 45px solid #faf3e6;
   border-right: 45px solid #faf3e6;
   border-top: 45px solid transparent;
-  background: #073763 url('../img/pocketcamera.png') repeat;
+  background: #073763 url('../img/logos/pocketcamera.png') repeat;
   margin: 0 auto -45px;
 }
 
@@ -43,7 +43,7 @@ body:after {
   border-left: 7em solid #faf3e6;
   border-right: 7em solid #faf3e6;
   border-bottom: 10em solid transparent;
-  background: #ffb14d url('../img/scissors.png') repeat;
+  background: #ffb14d url('../img/logos/scissors.png') repeat;
   margin: -10em auto 0;
 }
 
@@ -59,7 +59,7 @@ body:after {
   content: "";
   height: 20px;
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x 0 -2px;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x 0 -2px;
   background-size: 40em;
   display: block;
 }
@@ -133,7 +133,7 @@ p {
   font-size: 1.12rem;
   letter-spacing: 0.1rem;
   font-weight: 700;
-  background: url('../img/img-sprite.png') no-repeat center 0.25em;
+  background: url('../img/logos/img-sprite.png') no-repeat center 0.25em;
   background-size: 25rem;
   margin-bottom: 1.3em;
 }
@@ -147,7 +147,7 @@ p {
   margin-bottom: 0em;
   letter-spacing: 0.05rem;
   line-height: 1.275em;
-  background: url('../img/pocketcamera.png') no-repeat center .75em;
+  background: url('../img/logos/pocketcamera.png') no-repeat center .75em;
   background-size: 15em;
 }
 
@@ -166,8 +166,8 @@ p {
   font-size: 1.5em;
   line-height: 1;
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x top right,
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x top right,
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 13em;
 }
 
@@ -198,8 +198,8 @@ p {
   padding: 0.5em 0;
   margin: 0.35em auto 0.75em;
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x top right,
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x top right,
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 15em;
   line-height: 1;
 }
@@ -264,8 +264,8 @@ h3.archives, h3.resources {
 .design-archives ul {
   list-style-type: none;
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x top right,
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x top right,
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 36em;
   padding: 1.25em 0;
 }
@@ -308,25 +308,25 @@ h3.archives, h3.resources {
 
 .design-archives .next a {
   right: 0;
-  background: url('../img/img-sprite.png') no-repeat bottom right;
+  background: url('../img/logos/img-sprite.png') no-repeat bottom right;
   background-size: 20em;
 }
 
 .design-archives .previous a {
   left: 0;
-  background: url('../img/img-sprite.png') no-repeat bottom left;
+  background: url('../img/logos/img-sprite.png') no-repeat bottom left;
   background-size: 20em;
 }
 
 .sidebar .wrapper {
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 40em;
   margin: 0 2px -1px;
 }
 
 .zen-resources {
-  background:  url('../img/hairdresser.png') no-repeat 100% 100%;
+  background:  url('../img/logos/hairdresser.png') no-repeat 100% 100%;
   background-size: 20em;
   overflow: hidden;
 }
@@ -412,7 +412,7 @@ h3.archives, h3.resources {
 
 .participation {
   padding: 1.5em 0 0.5em;
-  background: url('../img/img-lg-horiz-border.png') repeat-x top left;
+  background: url('../img/logos/img-lg-horiz-border.png') repeat-x top left;
   background-size: 40em;
   margin: 3em 2px 0;
 }
@@ -422,7 +422,7 @@ h3.archives, h3.resources {
   font-size: 2.5em;
   letter-spacing: 0.025em;
   padding-bottom: 1rem;
-  background: url('../img/img-sprite.png') no-repeat center center;
+  background: url('../img/logos/img-sprite.png') no-repeat center center;
   background-size: 9em;
 }
 
@@ -432,7 +432,7 @@ h3.archives, h3.resources {
 
 .participation p:nth-child(2) {
   background: 
-    url('img-lg-horiz-border.png') repeat-x top left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x top left;
   background-size: 44em;
   padding-top: 2em;
 }
@@ -444,14 +444,14 @@ h3.archives, h3.resources {
 .benefits {
   padding: 1em 0 20em;
   margin: 0 2px;
-  background: url('../img/img-lg-horiz-border.png') repeat-x bottom center;
+  background: url('../img/logos/img-lg-horiz-border.png') repeat-x bottom center;
   background-size: 45em;
   position: relative;
 }
 
 .benefits p:last-child {
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 44em;
   padding-bottom: 1em;
 }
@@ -461,8 +461,8 @@ h3.archives, h3.resources {
   font-family: "grecian-light-face",sans-serif;
   font-size: 2.65em;
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x top center,
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x top center,
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 12em;
   padding: 0.25em 0;
 }
@@ -504,7 +504,7 @@ h3.archives, h3.resources {
   height: 26em; 
   margin: 0 auto -26em;
   padding-bottom: 2em;
-  background:  url('../img/schoolbooks.png') no-repeat center 7.75rem;
+  background:  url('../img/logos/schoolbooks.png') no-repeat center 7.75rem;
   background-size: 8.5rem;
 }
 
@@ -520,7 +520,7 @@ h3.archives, h3.resources {
   padding-bottom: 1rem;
   width: 100%;
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 16em;
 }
 
@@ -529,7 +529,7 @@ h3.archives, h3.resources {
   margin: 0 auto 4.15em;
   position: relative;
   background: 
-    url('img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 46em;
 }
 
@@ -555,14 +555,14 @@ footer:after {
   width: 100%;
   height: 15em; 
   margin: 0 auto -13.5em;
-  background:  url('../img/camera.png') no-repeat center center;
+  background:  url('../img/logos/camera.png') no-repeat center center;
   background-size: 10em;
 }
 
 
 footer {
   background: 
-    url('../img/img-lg-horiz-border.png') repeat-x bottom left;
+    url('../img/logos/img-lg-horiz-border.png') repeat-x bottom left;
   background-size: 40em;
   margin: 5.5em 1px -1px;
   text-align: center;
