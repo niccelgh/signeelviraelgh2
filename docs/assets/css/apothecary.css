@@ -630,8 +630,8 @@ footer a:hover, footer a:focus {
   .page-wrapper {
     width: 99%;
     background: 
-      url('../img/img-lg-vert-border.png') repeat-y top left,
-      url('../img/img-lg-vert-border.png') repeat-y right 100px;
+      url('../img/logos/img-lg-vert-border.png') repeat-y top left,
+      url('../img/logos/img-lg-vert-border.png') repeat-y right 100px;
     background-size: 0.75em;
     margin: 0.5em auto;
     padding: 0 2px;
