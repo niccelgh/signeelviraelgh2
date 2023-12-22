@@ -353,7 +353,7 @@ h3.archives, h3.resources {
 
 .zen-resources ul:after {
   margin-top: 3.5em;
-  background: #bad1c2 url('img-halftone.png') repeat;
+  background: #bad1c2 url('../img/logos/img-halftone.png') repeat;
    -webkit-transform: rotate(45deg) translateY(0.2em) translateX(3em);
      -moz-transform: rotate(45deg) translateY(0.2em) translateX(3em);
       -ms-transform: rotate(45deg) translateY(0.2em) translateX(3em);
@@ -656,7 +656,7 @@ footer a:hover, footer a:focus {
     font-size: 0.25em;
     letter-spacing: 0.175rem;
     font-weight: 700;
-    background: url('../img/img-sprite.png') no-repeat center 0.2em;
+    background: url('../img/logos/img-sprite.png') no-repeat center 0.2em;
     background-size: 38rem;
     margin-bottom: 1.2em;
   }
@@ -667,7 +667,7 @@ footer a:hover, footer a:focus {
     margin-top: 0.85em;
     margin-bottom: 0em;
     line-height: 1.275em;
-    background: url('../img/scissors.png') no-repeat center top;
+    background: url('../img/logos/scissors.png') no-repeat center top;
     background-size: 70em;
   }
   
@@ -713,12 +713,12 @@ footer a:hover, footer a:focus {
   }
   
   .design-archives .next a {
-    background: url('../img/img-sprite.png') no-repeat bottom right;
+    background: url('../img/logos/img-sprite.png') no-repeat bottom right;
     background-size: 35em;
   }
 
   .design-archives .previous a {
-    background: url('../img/img-sprite.png') no-repeat bottom left;
+    background: url('../img/logos/img-sprite.png') no-repeat bottom left;
     background-size: 35em;
   }
   
@@ -729,12 +729,12 @@ footer a:hover, footer a:focus {
   }
   
   .zen-resources {
-    background:  url('../img/hairdresser.png') no-repeat 28% 95%;
+    background:  url('../img/logos/hairdresser.png') no-repeat 28% 95%;
   }
   
   .zen-resources:after {
     margin-top: 20em;
-    background: #ffb14d url('../img/img-halftone.png') repeat;
+    background: #ffb14d url('../img/logos/img-halftone.png') repeat;
      -webkit-transform: rotate(45deg) translateY(11em) translateX(8.5em);
        -moz-transform: rotate(45deg) translateY(11em) translateX(8.5em);
         -ms-transform: rotate(45deg) translateY(11em) translateX(8.5em);
@@ -744,7 +744,7 @@ footer a:hover, footer a:focus {
   
   .zen-resources ul:after {
     margin-top: 3em;
-    background: #bad1c2 url('img-halftone.png') repeat;
+    background: #bad1c2 url('../img/logos/img-halftone.png') repeat;
      -webkit-transform: rotate(45deg) translateY(4.75em) translateX(9em);
        -moz-transform: rotate(45deg) translateY(4.75em) translateX(9em);
         -ms-transform: rotate(45deg) translateY(4.75em) translateX(9em);
@@ -754,7 +754,7 @@ footer a:hover, footer a:focus {
   }
   
   .zen-resources {
-    background:  url('../img/hairdresser.png') no-repeat 43.8% bottom;
+    background:  url('../img/logos/hairdresser.png') no-repeat 43.8% bottom;
     background-size: 13em;
   }
   
@@ -830,7 +830,7 @@ footer a:hover, footer a:focus {
     height: 25em; 
     margin: 0 auto -26em;
     padding-bottom: 2em;
-    background:  url('../img/camera.png') no-repeat center center;
+    background:  url('../img/logos/camera.png') no-repeat center center;
     background-size: 32%;
   }
   
@@ -852,7 +852,7 @@ footer a:hover, footer a:focus {
   }
   
   footer:after {
-    background:  url('../img/schoolbooks.png') no-repeat center bottom;
+    background:  url('../img/logos/schoolbooks.png') no-repeat center bottom;
     background-size: 15em;
   }
   
@@ -922,7 +922,7 @@ footer a:hover, footer a:focus {
     font-size: 2rem;
     letter-spacing: 0.175rem;
     font-weight: 700;
-    background: url('../img/img-sprite.png') no-repeat center 0.25em;
+    background: url('../img/logos/img-sprite.png') no-repeat center 0.25em;
     background-size: 42rem;
     margin-bottom: 1em;
   }
@@ -1004,7 +1004,7 @@ footer a:hover, footer a:focus {
     height: 26em; 
     margin: 0 auto -30.5em;
     padding-bottom: 6em;
-    background:  url('../img/pocketcamera.png') no-repeat center 40%;
+    background:  url('../img/logos/pocketcamera.png') no-repeat center 40%;
     background-size: 28%;
   }
   
@@ -1103,7 +1103,7 @@ footer a:hover, footer a:focus {
     height: 26em; 
     margin: 0 auto -26em;
     padding-bottom: 2em;
-    background:  url('../img/longhair.png') no-repeat center center;
+    background:  url('../img/logos/longhair.png') no-repeat center center;
     background-size: 42%;
   }
 
@@ -1158,7 +1158,7 @@ footer a:hover, footer a:focus {
   }
   
   .intro h1:before {
-    background: url('../img/img-sprite.png') no-repeat center 0.3em;
+    background: url('../img/logos/img-sprite.png') no-repeat center 0.3em;
     background-size: 56rem;
     font-size: 2.75rem;
   }
@@ -1207,7 +1207,7 @@ footer a:hover, footer a:focus {
   }
   
   .intro h1:before {
-    background: url('../img/img-sprite.png') no-repeat center 0.5em;
+    background: url('../img/logos/img-sprite.png') no-repeat center 0.5em;
     background-size: 58rem;
     margin-bottom: 0;
   }
