@@ -901,7 +901,7 @@ footer a:hover, footer a:focus {
   .participation p,
   .benefits h3,
   .benefits p {
-    max-width: 36rem;
+    max-width: 0rem;
   }
   
   
