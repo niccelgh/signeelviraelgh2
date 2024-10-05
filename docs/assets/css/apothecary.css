@@ -157,7 +157,7 @@ p {
 
 .preamble p {
   margin:  0.5em auto 0.55em;
-  padding: 0.5em 0.5em 0.5em 0.55em;
+  padding: 0.5em 0em 0em 0.55em;
   margin-bottom: 0.15em;
 }
 
@@ -178,7 +178,8 @@ p {
 }
 
 .preamble p:nth-child(1n+3) {
-  text-indent: 1.5em;
+  text-indent: 0em;
+  text-align: center;
 }
 
 .preamble p:nth-child(1n+3):first-line {
