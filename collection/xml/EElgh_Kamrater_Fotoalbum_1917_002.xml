@@ -73,7 +73,7 @@
 	<iptc-tag>
 		<tag-name>Iptc.Application2.Caption</tag-name>
 		<tag-mode>multi</tag-mode>
-		<tag-value>Back outside cover of photo album made of paperboard covered in dark blue velvet belonging to Signe Elvira Elgh b. 1900 entitled "Kamrater frÃƒÆ’Ã‚Â¥n Kristinehams-Praktiska-skola 1917-1918"</tag-value>
+		<tag-value>Back outside cover of photo album made of paperboard covered in dark blue velvet belonging to Signe Elvira Elgh b. 1900 entitled "Kamrater från Kristinehams-Praktiska-skola 1917-1918"</tag-value>
 	</iptc-tag>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.Keywords</tag-name>
@@ -85,17 +85,17 @@ Minnesalbum</tag-value>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.ObjectName</tag-name>
 		<tag-mode>multi</tag-mode>
-		<tag-value>Back outside cover of photo album belonging to Signe Elvira Elgh (b. 1900) entitled "Kamrater frÃƒÆ’Ã‚Â¥n Kristinehams-Praktiska-skola 1917-1918"</tag-value>
+		<tag-value>Back outside cover of photo album belonging to Signe Elvira Elgh (b. 1900) entitled "Kamrater från Kristinehams-Praktiska-skola 1917-1918"</tag-value>
 	</iptc-tag>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.Copyright</tag-name>
 		<tag-mode>single</tag-mode>
-		<tag-value>Copyright 1920, 2022, 2023 Signe Evira Elgh and successors.  Use permitted only in compliance with Fair Use (Sec. 107 USCA). For other uses please contact nicole.elgh@gmail.com </tag-value>
+		<tag-value>Copyright 1920, 2022, 2023 Signe Evira Elgh and successors. Use permitted only in compliance with Fair Use (Sec. 107 USCA). For other uses please contact nicole.elgh@gmail.com </tag-value>
 	</iptc-tag>
 	<xmp-tag>
 		<tag-name>Xmp.dc.title</tag-name>
 		<tag-mode>single</tag-mode>
-		<tag-value>Back outside cover of photo album belonging to Signe Elvira Elgh (b. 1900) entitled "Kamrater frÃƒÆ’Ã‚Â¥n Kristinehams-Praktiska-skola 1917-1918"</tag-value>
+		<tag-value>Back outside cover of photo album belonging to Signe Elvira Elgh (b. 1900) entitled "Kamrater från Kristinehams-Praktiska-skola 1917-1918"</tag-value>
 	</xmp-tag>
 	<xmp-tag>
 		<tag-name>Xmp.dc.creator</tag-name>
@@ -105,7 +105,7 @@ Minnesalbum</tag-value>
 	<xmp-tag>
 		<tag-name>Xmp.dc.description</tag-name>
 		<tag-mode>multi</tag-mode>
-		<tag-value>Back outside cover of photo album made of paperboard covered in dark blue velvet belonging to Signe Elvira Elgh b. 1900 entitled "Kamrater frÃƒÆ’Ã‚Â¥n Kristinehams-Praktiska-skola 1917-1918"</tag-value>
+		<tag-value>Back outside cover of photo album made of paperboard covered in dark blue velvet belonging to Signe Elvira Elgh b. 1900 entitled "Kamrater från Kristinehams-Praktiska-skola 1917-1918"</tag-value>
 	</xmp-tag>
 	<xmp-tag>
 		<tag-name>Xmp.dc.subject</tag-name>
@@ -117,7 +117,7 @@ Minnesalbum</tag-value>
 	<xmp-tag>
 		<tag-name>Xmp.dc.rights</tag-name>
 		<tag-mode>single</tag-mode>
-		<tag-value>Copyright 1920, 2022, 2023 Signe Evira Elgh and successors.  Use permitted only in compliance with Fair Use (Sec. 107 USCA). For other uses please contact nicole.elgh@gmail.com </tag-value>
+		<tag-value>Copyright 1920, 2022, 2023 Signe Evira Elgh and successors. Use permitted only in compliance with Fair Use (Sec. 107 USCA). For other uses please contact nicole.elgh@gmail.com </tag-value>
 	</xmp-tag>
 	<xmp-tag>
 		<tag-name>Xmp.photoshop.AuthorsPosition</tag-name>
