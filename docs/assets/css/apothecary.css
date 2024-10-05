@@ -157,7 +157,7 @@ p {
 
 .preamble p {
   margin:  0.5em auto 0.55em;
-  padding: 0.5em 0 0.55em;
+  padding: 0.5em 0.5em 0.5em 0.55em;
   margin-bottom: 0.15em;
 }
 
