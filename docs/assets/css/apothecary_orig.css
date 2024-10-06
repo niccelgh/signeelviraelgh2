@@ -490,7 +490,7 @@ h3.archives, h3.resources {
   height: 26em; 
   margin: 0 auto -26em;
   padding-bottom: 2em;
-  background:  url('../img/logos/img-look-right-sm.png') no-repeat center 7.75rem;
+  background:  url('../img/logos/longhair.png') no-repeat center 7.75rem;
   background-size: 8.5rem;
 }
 
@@ -807,7 +807,7 @@ footer a:hover, footer a:focus {
     height: 25em; 
     margin: 0 auto -26em;
     padding-bottom: 2em;
-    background:  url('../img/logos/img-look-right.png') no-repeat center center;
+    background:  url('../img/logos/longhair.png') no-repeat center center;
     background-size: 32%;
   }
   
@@ -981,7 +981,7 @@ footer a:hover, footer a:focus {
     height: 26em; 
     margin: 0 auto -30.5em;
     padding-bottom: 6em;
-    background:  url('../img/logos/img-look-right.png') no-repeat center 40%;
+    background:  url('../img/logos/longhair.png') no-repeat center 40%;
     background-size: 28%;
   }
   
@@ -1080,7 +1080,7 @@ footer a:hover, footer a:focus {
     height: 26em; 
     margin: 0 auto -26em;
     padding-bottom: 2em;
-    background:  url('../img/logos/img-look-right.png') no-repeat center center;
+    background:  url('../img/logos/longhair.png') no-repeat center center;
     background-size: 42%;
   }
 
