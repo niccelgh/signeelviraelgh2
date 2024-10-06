@@ -653,8 +653,8 @@ footer a:hover, footer a:focus {
     margin-top: 0.85em;
     margin-bottom: 0em;
     line-height: 1.275em;
-    background: url('../img/logos/img-bottle.png') no-repeat center top;
-    background-size: 1.65em;
+    background: url('../img/logos/pocketcamera.png') no-repeat center top;
+    background-size: 400px;
   }
   
   .summary p:nth-child(2) {
