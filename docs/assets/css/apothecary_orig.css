@@ -140,7 +140,6 @@ p {
   letter-spacing: 0.05rem;
   line-height: 1.275em;
   background: url('../img/logos/pocketcamera.png') no-repeat center 0.75em;
-  background-size: 200px;
 }
 
 .preamble {
@@ -654,7 +653,6 @@ footer a:hover, footer a:focus {
     margin-bottom: 0em;
     line-height: 1.275em;
     background: url('../img/logos/pocketcamera.png') no-repeat center top;
-    background-size: 400px;
   }
   
   .summary p:nth-child(2) {
