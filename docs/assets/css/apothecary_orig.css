@@ -174,7 +174,7 @@ p {
   text-transform: none;
 }
 
-.preamble p:img {
+.preamble img {
   display: block;
   margin-left: auto;
   margin-right: auto;
