@@ -142,6 +142,13 @@ p {
   background: url('../img/logos/pocketcamera.png') no-repeat center;
 }
 
+.intro img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
 .preamble {
   margin: 0 auto 1em;
 }
