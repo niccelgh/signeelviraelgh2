@@ -1140,7 +1140,9 @@ footer a:hover, footer a:focus {
   
   .intro h2 {
     padding-top: 5em;
-    background-size: 800px;
+    background: url('../img/logos/pocketcamera.png') no-repeat center
+    height: 600px;
+    background-size: cover;
   }
   
   .benefits:before {
