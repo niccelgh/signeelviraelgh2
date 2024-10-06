@@ -826,8 +826,7 @@ footer a:hover, footer a:focus {
   }
   
   footer:after {
-    background:  url('../img/logos/img-lookup.png') no-repeat center bottom;
-    background-size: 15em;
+    background:  url('../img/logos/hairdresser.png') no-repeat center bottom;
   }
   
   .participation h3:before, .participation h3:after {
