@@ -458,7 +458,7 @@ h3.archives, h3.resources {
 }
 
 .benefits:before {
-  content: 'Apply Liberally';
+  content: 'Archive Freely';
   font-size: 3em;
   position: absolute;
   bottom: 3.5rem;
@@ -471,7 +471,7 @@ h3.archives, h3.resources {
 }
 
 .benefits:after {
-  content: 'And Regularly!';
+  content: 'Archive Often!';
   font-size: 3em;
   position: absolute;
   bottom: -13rem;
