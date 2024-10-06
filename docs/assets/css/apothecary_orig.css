@@ -662,7 +662,7 @@ footer a:hover, footer a:focus {
   
   .intro h2 {
     font-size: 3.75em;
-    padding-top: 4.25em;
+    padding-top: 0.5em;
     margin-top: 0.85em;
     margin-bottom: 0em;
     line-height: 1.275em;
@@ -916,7 +916,7 @@ footer a:hover, footer a:focus {
   }
   
   .intro h2 {
-    padding-top: 4.5em;
+    padding-top: 0.5em;
     margin-top: 0.7em;
     margin-bottom: 0em;
     background-size: 800px;
