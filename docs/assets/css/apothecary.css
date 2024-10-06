@@ -35,7 +35,7 @@ body:before {
   border-left: 45px solid #faf3e6;
   border-right: 45px solid #faf3e6;
   border-top: 45px solid transparent;
-  background: #073763 url('../img/logos/pocketcamera.png') repeat;
+  background: #073763 url('../img/logos/pocketcamera.pn') repeat;
   margin: 0 auto -45px;
 }
 
@@ -43,7 +43,7 @@ body:after {
   border-left: 7em solid #faf3e6;
   border-right: 7em solid #faf3e6;
   border-bottom: 10em solid transparent;
-  background: #ffb14d url('../img/logos/pocketcamera.png') repeat;
+  background: #ffb14d url('../img/logos/pocketcamera.pn') repeat;
   margin: -10em auto 0;
 }
 
@@ -133,7 +133,7 @@ p {
   font-size: 1.12rem;
   letter-spacing: 0.1rem;
   font-weight: 700;
-  background: url('../img/logos/img-sprite.png') no-repeat center 0.25em;
+  background: url('../img/logos/img-sprite.pn') no-repeat center 0.25em;
   background-size: 25rem;
   margin-bottom: 1.3em;
 }
@@ -147,7 +147,7 @@ p {
   margin-bottom: 0em;
   letter-spacing: 0.05rem;
   line-height: 1.275em;
-  background: url('../img/logos/pocketcamera.png') no-repeat center .75em;
+  background: url('../img/logos/pocketcamera.pn') no-repeat center .75em;
   background-size: 15em;
 }
 
@@ -311,13 +311,13 @@ h3.archives, h3.resources {
 
 .design-archives .next a {
   right: 0;
-  background: url('../img/logos/img-sprite.png') no-repeat bottom right;
+  background: url('../img/logos/img-sprite.pn') no-repeat bottom right;
   background-size: 20em;
 }
 
 .design-archives .previous a {
   left: 0;
-  background: url('../img/logos/img-sprite.png') no-repeat bottom left;
+  background: url('../img/logos/img-sprite.pn') no-repeat bottom left;
   background-size: 20em;
 }
 
@@ -329,7 +329,7 @@ h3.archives, h3.resources {
 }
 
 .zen-resources {
-  background:  url('../img/logos/hairdresser.png') no-repeat 100% 100%;
+  background:  url('../img/logos/hairdresser.pn') no-repeat 100% 100%;
   background-size: 200px;
   overflow: hidden;
 }
@@ -346,7 +346,7 @@ h3.archives, h3.resources {
 
 .zen-resources:after {
   margin-top: 9em;
-  background: #ffb14d url('img-halftone.png') repeat;
+  background: #ffb14d url('../img/logos/img-halftone.png') repeat;
    -webkit-transform: rotate(45deg) translateY(5.25em) translateX(2.75em);
      -moz-transform: rotate(45deg) translateY(5.25em) translateX(2.75em);
       -ms-transform: rotate(45deg) translateY(5.25em) translateX(2.75em);
@@ -425,7 +425,7 @@ h3.archives, h3.resources {
   font-size: 2.5em;
   letter-spacing: 0.025em;
   padding-bottom: 1rem;
-  background: url('../img/logos/img-sprite.png') no-repeat center center;
+  background: url('../img/logos/img-sprite.pn') no-repeat center center;
   background-size: 9em;
 }
 
