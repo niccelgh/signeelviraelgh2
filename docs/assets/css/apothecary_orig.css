@@ -666,7 +666,7 @@ footer a:hover, footer a:focus {
     margin-top: 0.85em;
     margin-bottom: 0em;
     line-height: 1.275em;
-    background: url('../img/logos/pocketcamera.png') no-repeat center top;
+    background: url('../img/logos/pocketcamera.pn') no-repeat center top;
   }
   
   .summary p:nth-child(2) {
@@ -1153,7 +1153,7 @@ footer a:hover, footer a:focus {
   
   .intro h2 {
     padding-top: 5em;
-    background: url('../img/logos/pocketcamera.png') no-repeat center
+    background: url('../img/logos/pocketcamera.pn') no-repeat center
     height: 600px;
   }
   
