@@ -475,7 +475,7 @@ h3.archives, h3.resources {
 }
 
 .benefits:before {
-  content: 'Archive Everything';
+  content: 'Archive All!';
   font-size: 3em;
   position: absolute;
   bottom: 3.5rem;
