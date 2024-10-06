@@ -148,6 +148,7 @@ p {
 
 .preamble p {
   margin-bottom: 0.15em;
+  text-align: center;
 }
 
 .preamble h3 {
