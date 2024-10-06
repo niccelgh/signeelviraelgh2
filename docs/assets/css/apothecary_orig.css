@@ -654,7 +654,7 @@ footer a:hover, footer a:focus {
     margin-bottom: 0em;
     line-height: 1.275em;
     background: url('../img/logos/pocketcamera.png') no-repeat center top;
-    background-size: 1.65em;
+    background-size: 10em;
   }
   
   .summary p:nth-child(2) {
