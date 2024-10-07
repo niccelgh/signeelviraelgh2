@@ -555,7 +555,7 @@ footer:after {
   height: 15em; 
   margin: 0 auto -13.5em;
   background:  url('../img/logos/hairdresser.png') no-repeat bottom center ;
-  background-size: 400px;
+  background-size: 800px;
 }
 
 
@@ -842,6 +842,7 @@ footer a:hover, footer a:focus {
   
   footer:after {
     background:  url('../img/logos/hairdresser.png') no-repeat center bottom;
+    background-size: 800px;
   }
   
   .participation h3:before, .participation h3:after {
