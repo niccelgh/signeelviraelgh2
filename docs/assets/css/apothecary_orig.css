@@ -325,7 +325,7 @@ h3.archives, h3.resources {
 }
 
 .zen-resources {
-  background:  url('../img/logos/img-pointer-guy-sm.png') no-repeat 28% 95%;
+  background:  url('../img/logos/hairbrush.png') no-repeat 28% 95%;
   background-size: 5em;
   overflow: hidden;
 }
@@ -718,7 +718,7 @@ footer a:hover, footer a:focus {
   }
   
   .zen-resources {
-    background:  url('../img/logos/img-pointer-guy.png') no-repeat 28% 95%;
+    background:  url('../img/logos/hairbrush.png') no-repeat 28% 95%;
   }
   
   .zen-resources:after {
@@ -743,7 +743,7 @@ footer a:hover, footer a:focus {
   }
   
   .zen-resources {
-    background:  url('../img/logos/img-pointer-guy.png') no-repeat 43.8% bottom;
+    background:  url('../img/logos/hairbrush.png') no-repeat 43.8% bottom;
     background-size: 13em;
   }
   
