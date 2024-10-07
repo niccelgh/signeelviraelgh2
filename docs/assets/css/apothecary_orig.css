@@ -142,7 +142,7 @@ p {
   background: url('../img/logos/pocketcamera.pn') no-repeat center;
 }
 
-.intro p img {
+.intro .graphic p img {
   display: block;
   margin-left: auto;
   margin-right: auto;
