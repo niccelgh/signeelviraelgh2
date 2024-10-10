@@ -714,7 +714,7 @@ footer a:hover, footer a:focus {
   
   .zen-resources:after, .zen-resources ul:after {
     width: 24em;
-    height: 30em;
+    height: 20em;
   }
   
   .zen-resources {
@@ -744,7 +744,7 @@ footer a:hover, footer a:focus {
   
   .zen-resources {
     background:  url('../img/logos/hairbrush.png') no-repeat 43.8% bottom;
-    background-size: 50em;
+    background-size: 40em;
   }
   
   .zen-resources ul {
