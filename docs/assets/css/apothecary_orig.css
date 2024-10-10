@@ -714,7 +714,7 @@ footer a:hover, footer a:focus {
   
   .zen-resources:after, .zen-resources ul:after {
     width: 24em;
-    height: 40em;
+    height: 24em;
   }
   
   .zen-resources {
@@ -722,7 +722,7 @@ footer a:hover, footer a:focus {
   }
   
   .zen-resources:after {
-    margin-top: 15em;
+    margin-top: 10em;
     background: #ffb14d url('../img/logos/img-halftone.png') repeat;
      -webkit-transform: rotate(45deg) translateY(11em) translateX(8.5em);
        -moz-transform: rotate(45deg) translateY(11em) translateX(8.5em);
