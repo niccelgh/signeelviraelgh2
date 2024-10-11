@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ata: <?xml version="1.0" encoding="UTF-8"?>
 
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <body>
-  <h2>My CD Collection</h2>
+  <h2>Metadata: "Kamrater fran Kristinehams-Praktiska-skola 1917-1918"</h2>
   <table border="1">
     <tr bgcolor="#faf3e6">
       <th>Name</th>
