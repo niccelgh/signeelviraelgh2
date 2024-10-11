@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="metadata.xsl"?>
 <gimp-metadata>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.DateCreated</tag-name>
@@ -361,7 +362,8 @@
 		<tag-name>Xmp.plus.ImageCreator</tag-name>
 		<tag-mode>list</tag-mode>
 		<tag-list-value>
-P			<list-element>
+P
+			<list-element>
 				<element>Systrarna Hallberg</element>
 				<element></element>
 			</list-element>
