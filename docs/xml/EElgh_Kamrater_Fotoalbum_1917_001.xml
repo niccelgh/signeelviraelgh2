@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="collection/xml/metadata.xsl"?>
+<?xml-stylesheet type="text/xsl" href="metadata.xsl"?>
 <gimp-metadata>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.DateCreated</tag-name>
