@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <body>
-  <h2>Metadata: "Kamrater Fran Kristinehams-Praktika-skola 1914-1917"</h2>
+  <h2>Metadata: "Kamrater fran Kristinehams-Praktiska-skola 1917-1918"</h2>
   <table border="1">
     <tr bgcolor="#faf3e6">
       <th>Name</th>
